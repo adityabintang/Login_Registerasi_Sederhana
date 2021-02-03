@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517471467709",
+    "project_id": "login-registerasi-sederhana",
+    "storage_bucket": "login-registerasi-sederhana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517471467709:android:b5559f358d8b88f14ddfd4",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterasisederhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517471467709-hm5a7jeammsqfgppr3mf2u1ggv2r7q6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrUfXycaFuhJ6CXvcs8cqAteiyJx1Pug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517471467709-hm5a7jeammsqfgppr3mf2u1ggv2r7q6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
